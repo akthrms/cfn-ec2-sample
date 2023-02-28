@@ -1,1 +1,1 @@
-# cfn-ec2-sample
+# CloudFormationのサンプル（EC2）
